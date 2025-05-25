@@ -1,4 +1,4 @@
-# Face Attendance System with Supabase
+# Face Recognition Attendance System with Supabase
 
 This is a real-time face attendance system built using Python, OpenCV, and `face_recognition`, integrated with Supabase for backend data storage and image management. The system identifies registered students, marks their attendance, and displays their information and image on screen.
 
